@@ -20,3 +20,23 @@ Welcome to the Playground Fish Bot Reacources. This contains neccacary data for 
 18. Tang
 19. Lionfish
 20. Pufferfish
+21. Goblin Shark
+22. Blobfish
+23. Fangtooth
+24. Handfish
+25. Sarcastic Fringehead
+26. Leady Sea Dragon
+27. Ocean Sunfish
+28. Vampire Squid
+29. Sailfish
+30. Sturgeon
+31. Lungfish
+32. Coelacanth
+33. Goblinfish
+34. Hatchetfish
+35. Pacific Footballfish
+36. Wolffish
+37. Mantaray
+38. Mimic Octopus
+39. Unicornfish
+40. Dragonfish
