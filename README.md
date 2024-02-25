@@ -60,3 +60,24 @@ Welcome to the Playground Fish Bot Reacources. This contains neccacary data for 
 58. Indo-Pacific Humphead Wrasse
 59. Atlantic Sailfish
 60. Giant Manta Ray
+61. Marlin
+62. Swordfish
+63. Wahoo
+64. Bluefin Tuna
+65. Yellowtail Amberjack
+66. Giant Trevally
+67. Roosterfish
+68. Nile Perch
+69. Arapaima
+70. Mekong Giant Catfish
+71. Alligator Gar
+72. Atlantic Sturgeon
+73. White Marlin
+74. Sailfish
+75. Blue Marlin
+76. Tarpon
+77. Giant Manta Ray
+78. Whale Shark
+79. Bluefin Tuna
+80. Yellowfin Tuna
+
