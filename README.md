@@ -40,3 +40,23 @@ Welcome to the Playground Fish Bot Reacources. This contains neccacary data for 
 38. Mimic Octopus
 39. Unicornfish
 40. Dragonfish
+41. Devil's Hole Pupfish
+42. Teufelskarpfen
+43. Axolotl
+44. Red Handfish
+45. Chocolate Gourami
+46. Pink See-through Hatchetfish
+47. Christmas Island Frigatebird
+48. Salamanderfish
+49. Tequila Splitfin
+50. Arapaima
+51. Chinese Sturgeon
+52. Giant Trevally
+53. Wakatobi Angelfish
+54. Black Dragonfish
+55. White Sturgeon
+56. Bluenose Sand Tiger
+57. Sturgeon Catfish
+58. Indo-Pacific Humphead Wrasse
+59. Atlantic Sailfish
+60. Giant Manta Ray
