@@ -1,4 +1,4 @@
-Welcome to the Playground Fish Bot Reacources. This contains neccacary data for Playground's, Fish Bot, to work. Inspired by Polygon Donut. Feel free to use these images in your own project!
+Welcome to the Playground Fish Bot Reacources. This contains neccacary data for Playground's, Fish Bot, to work. Inspired by Polygon Donut. Feel free to use these images in your own project! The images were generated with AI at aitestkitchen.withgoogle.com/tools/image-fx. The list of fish were generated using the Gemini AI.
 ## FISH LIST
 1. Salmon
 2. Tuna
